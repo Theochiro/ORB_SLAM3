@@ -139,7 +139,6 @@ endif()
 # Build examples
 
 # RGB-D examples
-
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/Examples/RGB-D)
 
 add_executable(rgbd_tum
